@@ -16,3 +16,11 @@ If it doesn't spin up try this:
 pip install --upgrade customtkinter
 ```
 If that doesn't work, open an issue and let me know what happend!
+
+## **Linux support**
+You have to install these like on windows:
+```BASH
+pip install customtkinter==0.3
+pip install setuptools
+```
+It should work because it works on replit.com
