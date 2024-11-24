@@ -1,4 +1,7 @@
-Hex editor in python.
+# **Hex editor in python**
 
-You will need CustomTKinter.
-In CMD: pip install customtkinter==0.3
+I made a hex editor in python!
+You can try it out but you have to get these packages:
+```CMD
+pip install customtkinter==0.3
+pip install setuptools
