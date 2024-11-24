@@ -9,11 +9,11 @@ class HexEditorApp(ctk.CTk):
 
         # Configuration
         self.title("Hex Editor")
-        self.geometry("560x600")
+        self.geometry("575x600")
         self.text_size = 14
         self.current_file = None
         self.updating = False  # Lock for preventing cyclic updates
-        self.bytes_per_line = 16  # Number of bytes per line for hex and text display
+        self.bytes_per_line = 14  # Number of bytes per line for hex and text display
 
         self.create_widgets()
 
