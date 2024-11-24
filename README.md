@@ -11,7 +11,7 @@ pip install setuptools
 When starting the program up after instaling those packages you just double click on the file and it should start up.
 
 ## **Something wrong?**
-If if it doesn't spin up try this:
+If it doesn't spin up try this:
 ```CMD2
 pip install --upgrade customtkinter
 ```
