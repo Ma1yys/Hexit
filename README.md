@@ -10,5 +10,5 @@ pip install setuptools
 ## **Starting up**
 When starting the program up after instaling those packages you just double click on the file and it should start up.
 
-### **Something wrong?**
+## **Something wrong?**
 Open an issue and let me know!
