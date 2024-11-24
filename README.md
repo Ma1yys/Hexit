@@ -25,4 +25,4 @@ pip install setuptools
 ```
 It should work because it works on replit.com
 
-(Release only for Windows for now. When i have time i will make a release for linux)
+(Release only for Windows for now. When i have time i will make a release for Linux)
