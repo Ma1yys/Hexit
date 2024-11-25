@@ -17,6 +17,9 @@ pip install --upgrade customtkinter
 ```
 If that doesn't work, open an issue and let me know what happend!
 
+## **Executables**
+You can now download only the program with modules embeded in it. (Open an issue if not working)
+
 ## **Linux support**
 You have to install these like on windows:
 ```BASH
