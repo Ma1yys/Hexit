@@ -1,4 +1,4 @@
-# **Hex editor in python**
+# **Hex editor in Python**
 
 I made a hex editor in python!
 You can try it out but you have to get these packages:
