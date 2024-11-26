@@ -22,7 +22,7 @@ You can now download only the program with modules embeded in it. (Open an issue
 
 ## **Linux support**
 You have to install these like on windows:
-```BASH
+```CMD
 pip install customtkinter==0.3
 pip install setuptools
 ```
